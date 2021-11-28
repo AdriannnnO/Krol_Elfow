@@ -11,14 +11,21 @@ h1{
     color: white;
 }
 #tekst{
-    height: 555px;
+    width: 831;
     float: right;
-    width: 44%;
+    height: 556;
     background-image: url(ok.jpg);
+    background-size: 100%;
+    margin-right: 16px;
+    border-radius: 10px;
+    padding-left: 5px;
+    
 }
 #obraz{
     float: left;
     width: 0%;
+    margin-left: 16px;
+    margin-right: 10px;
 }
 
 HTML{
@@ -39,4 +46,7 @@ footer{
     clear: both;
     padding: 100px;
     color: white;
+}
+#ojciecc{
+    border-radius: 10px;
 }
